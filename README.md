@@ -5,10 +5,13 @@ Homework assignment where the goal is make an employee directory using React.js,
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Deployed App
-Link coming soon ...
+https://empdir2020.herokuapp.com/
 
 ## Images
-img coming soon
+Home Page
+https://github.com/VictoriaArda/EmployeeDirectory/tree/master/src\assets\pic1.PNG
+Searching Employee
+https://github.com/VictoriaArda/EmployeeDirectory/tree/master/src\assets\pic2.PNG
 
 ## Installation
 #### Available Scripts
