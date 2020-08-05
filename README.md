@@ -8,10 +8,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 https://empdir2020.herokuapp.com/
 
 ## Images
-Home Page
-https://github.com/VictoriaArda/EmployeeDirectory/tree/master/src\assets\pic1.PNG
-Searching Employee
-https://github.com/VictoriaArda/EmployeeDirectory/tree/master/src\assets\pic2.PNG
+
+![Home Page Img 1](https://github.com/VictoriaArda/EmployeeDirectory/tree/master/src\assets\pic1.PNG)
+
+
+![Searching Employee Img 2](https://github.com/VictoriaArda/EmployeeDirectory/tree/master/src\assets\pic2.PNG)
 
 ## Installation
 #### Available Scripts
